@@ -88,9 +88,9 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ![4dc47b07a8bd46148650ad426737f95d](https://github.com/user-attachments/assets/7e8d0588-37a3-4531-8e0c-34e603498507)
 
 
-### whois :
-
 ### netcat :
+![45cba155f61247fa8d44c79619e2d5b4](https://github.com/user-attachments/assets/0dfdff82-9bc7-4e65-9d6e-cfc6b020b270)
+
 
 ### nmap :
 <img width="793" height="260" alt="image" src="https://github.com/user-attachments/assets/5b00ee75-7dfe-4151-8bc8-d6a7a2aa52c5" />
@@ -101,17 +101,20 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ### httprint :
+<img width="808" height="292" alt="image" src="https://github.com/user-attachments/assets/b2d5d3cf-9838-4d30-bbc7-11b45775c90c" />
+
 
 ### TCP traceroute :
-![WhatsApp Image 2025-08-21 at 08 27 26_97298e0b](https://github.com/user-attachments/assets/bb87c643-0a2d-481c-9ca1-effda6e584e4)
+<img width="801" height="151" alt="image" src="https://github.com/user-attachments/assets/0f20773f-3390-492f-930a-7d851756c599" />
 
 
 ### UDP traceroute :
-![WhatsApp Image 2025-08-21 at 08 28 57_9649ff45](https://github.com/user-attachments/assets/cea22edc-a9ee-4942-8754-79d87c6b64e8)
+<img width="812" height="342" alt="image" src="https://github.com/user-attachments/assets/b6972374-7622-457c-aa80-62a738e6f18b" />
 
 
 ### ICMP traceroute:
-![WhatsApp Image 2025-08-21 at 08 30 11_44aa4e9e](https://github.com/user-attachments/assets/fae77b0e-4c18-496e-8645-1770ea0261ae)
+<img width="803" height="428" alt="image" src="https://github.com/user-attachments/assets/0ef055ba-0673-4058-9919-16af1aaa07ac" />
+
 
 
 ## RESULT:
